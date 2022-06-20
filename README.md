@@ -21,7 +21,7 @@ Koristeći fajlove koje je napravio simulator, izvršeno je testiranje kvaliteta
 
 ## Prezentacija projekta:
 
-`yt link...`
+[Simulator Illumina paired-end sekvencera](https://youtu.be/EmR55vqCvcc)
 
 ### Autori:
 
