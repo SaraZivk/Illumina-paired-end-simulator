@@ -19,6 +19,9 @@ Koristeći fajlove koje je napravio simulator, izvršeno je testiranje kvaliteta
 
 `graphs.py` - učitava metrike iz txt fajla i grafički ih prikazuje
 
+## Prezentacija projekta:
+
+`yt link...`
 
 ### Autori:
 
